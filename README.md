@@ -36,11 +36,37 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The first part of the life and raigne of King Henrie the IIII. Extending to the end of the first yea
+
+1. Illustrissimo & honoratissimo Roberto
+Comiti Essexiae & Ewe, Comiti
+Marescallo Angliae, Vicecomiti Herefordiae
+& Bourchier: Baroni Ferrariis de Chartley,
+Domino Bourchier & Louein: Regiae Maiestati Hyppocomo:
+Machinarum bellicarum praefecto: Academiae Cantabrigiensis▪
+Cancellario: ordinis Georgiani Equiti aurato:
+Serenissimae Domino Reginae a sanctioribus consilijs:
+Domino meo plurimum obseruando.
+
+1. Faultes escaped in the Printing
+
+1. A. P. to the Reader.
+
 #####Body#####
-The first part of the life and raigne of King Henrie the IIII. Extending to the end of the first yea
+
+1. THE
+FIRST PARTE
+OF THE LIFE AND
+RAIGNE OF KING
+Henry the fourth,
+Extending to the end of the first
+yeere of his raigne.
+
 #####Back#####
-The first part of the life and raigne of King Henrie the IIII. Extending to the end of the first yea
+LONDON.
+Printed by Iohn VVolfe, and are
+to be sold at his shop in Popes
+head alley, neere the
+Exchan
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
